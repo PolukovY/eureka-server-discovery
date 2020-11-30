@@ -2,7 +2,7 @@
 
 This project demonstrates the use of Netflix OSS with Spring Cloud on any cloud Heroku. It defines a Eureka server
 that can be used for service discovery. Once this project is up and running, you can connect the 
-[Eureka client template](https://github.com/kissaten/template-eureka-client) to it.
+[Eureka client template](https://github.com/PolukovY/template-eureka-client) to it.
 
 ## Quickstart
 
